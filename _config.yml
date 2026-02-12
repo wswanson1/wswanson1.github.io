@@ -18,16 +18,17 @@ url                      : https://wswanson1.github.io     # https://academicpag
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "William Swanson"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I am an Economist at the U.S. Congressional Budget Office"
+  location         : "Washington D.C."
   employer         : "U.S. Congressional Budget Office"
   uri              : # URL
   email            : "william.swanson@cbo.gov" 
