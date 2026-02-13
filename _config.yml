@@ -267,6 +267,16 @@ defaults:
       author_profile: true
       share: true
 
+  # _cbo
+  - scope:
+      path: ""
+      type: cbo
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
 
 # Sass/SCSS
 sass:
