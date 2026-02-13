@@ -13,7 +13,7 @@ main:
 
   #I added this in -- may not work
   - title: "CBO Products"
-     url: /cbo/
+    url: /cbo/
 
   #- title: "Talks"
   #  url: /talks/    
