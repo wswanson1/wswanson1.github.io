@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-02-01
 venue: 'US Congressional Budget Office Working Paper Series'
-% slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.cbo.gov/system/files/2025-02/61186-Climate-GDP.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Shirley, Chad, and William Swanson. The Effects of Climate Change on GDP in the 21st Century: Working Paper 2025-02. No. 61186. 2025.'
