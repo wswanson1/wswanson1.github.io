@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 permalink: /publications/
+title: "Publications"
+author_profile: true
 ---
 
 ## 2024
