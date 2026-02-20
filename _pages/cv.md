@@ -1,2 +1,2 @@
 
-[Download/View my CV (PDF)](/files/FINAL_CV_TEMP_v3.pdf){:target="_blank"}
+[Download/View my CV (PDF)](/files/CV_2026.pdf){:target="_blank"}
