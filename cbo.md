@@ -10,7 +10,7 @@ author_profile: true
 ## 2024
 -->
 
-* **Model for Estimating the Economic Effects of Changes in Permitting Requirements.** February 2026 [Download Paper](https://github.com/US-CBO/permitting-model/blob/main/docs/Technical_Supplement.pdf) | [Download Code](https://github.com/US-CBO/permitting-model) 
+* **Model for Estimating the Economic Effects of Changes in Permitting Requirements.** February 2026 [Download Paper](https://github.com/US-CBO/permitting-model/blob/main/docs/Technical_Supplement.pdf) &#124; [Download Code](https://github.com/US-CBO/permitting-model) 
 
 * **Estimating the Effects of Changes in Permitting Requirements on Private Investment.** (with CBO Staff). No. 62100. February 2026 [Download Slides](https://www.cbo.gov/system/files/2026-02/62100-Permitting.pdf)
 
