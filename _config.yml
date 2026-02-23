@@ -27,8 +27,8 @@ author:
   avatar           : "profile.png"
   name             : "William Swanson"
   # pronouns         : # example: "she/her"  
-  bio              : "I am an Economist at the U.S. Congressional Budget Office"
-  location         : "Washington D.C."
+  bio              : "Macroeconomist focusing on energy, the environment, and investment"
+  # location         : "Washington D.C."
   employer         : "U.S. Congressional Budget Office"
   email            : "william.swanson@cbo.gov" 
 
