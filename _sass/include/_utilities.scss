@@ -318,6 +318,7 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .navicon {
+  display: none !important; /* This hides the icon entirely */
   position: relative;
   display: inline-block;
   vertical-align: middle;
