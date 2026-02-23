@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "William Swanson"
   # pronouns         : # example: "she/her"  
-  bio              : "Macroeconomist focusing on energy, the environment, and investment"
+  bio              : "Macro and Energy Economist"
   # location         : "Washington D.C."
   employer         : "U.S. Congressional Budget Office"
   email            : "william.swanson@cbo.gov" 
@@ -298,18 +298,18 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
+  #- jekyll-sitemap
+  
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  #- jekyll-sitemap
 
 
 # Archives
