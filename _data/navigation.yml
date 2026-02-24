@@ -12,8 +12,8 @@ main:
     url: /research/
 
   #I added this in -- may not work
-  - title: "CBO Products"
-    url: /cbo/
+  #- title: "CBO Products"
+  #  url: /cbo/
 
   #- title: "Talks"
   #  url: /talks/    
