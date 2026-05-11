@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Working Papers and CBO Products
 
-* **Permitting Delays, Regulatory Regimes, and Investment: Evidence from the Clean Water Act** May 2026 [Download Paper]()
+* **Permitting Delays, Regulatory Regimes, and Investment: Evidence from the Clean Water Act** May 2026 [Download Paper](files/Swanson_permitting_and_investment.pdf)
 
 * **Model for Estimating the Economic Effects of Changes in Permitting Requirements.** February 2026 [Download Paper](https://github.com/US-CBO/permitting-model/blob/main/docs/Technical_Supplement.pdf) &#124; [Download Code](https://github.com/US-CBO/permitting-model) 
 
